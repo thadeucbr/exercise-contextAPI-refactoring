@@ -4,7 +4,9 @@ import Cars from './Cars';
 
 function App() {
   return (
-    <Cars />
+    <div>
+      <Cars />
+    </div>
   );
 }
 
